@@ -1237,8 +1237,9 @@ a.dropdown-item {
   margin: 0; /* Remove default margin */
 }
 
-@media (min-width: 768px) { /* Adjust based on your desired breakpoint */
+@media (min-width: 1200px) { /* Adjust based on your desired breakpoint */
   .snubsloth-text {
     margin-right: 30rem; /* Add margin only for screens wider than 768px */
   }
 }
+
